@@ -1,0 +1,21 @@
+
+
+
+.nav{
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    background-color: white;
+}
+.nav-list{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.nav-list li{
+    list-style: none;
+
+}
+.nav-button{
+    justify-content: space-between;
+}

@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex ;
+    justify-content: space-between;
+    height: 9%;
+    align-items: center;
+    border-bottom: solid 3px rgba(0,0,0,.1);
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+.logo{
+    color: rgb(137, 131, 131);
+
+}
+    
+.nav-list{
+    display: flex;
+    margin-right: 1px;
+
+}
+ul li .navbar:hover{
+    padding: 15px;
+
+    background-color: rgb(220, 211, 211);
+}
+.nav-list li{
+    list-style: none;
+    margin: 10px;
+    
+}
+.navlisthoover{
+    color: rgb(156, 146, 146);
+
+}
+
+
+.nav-list li a{
+    text-decoration: none;
+    color: rgb(121, 116, 116);
+
+}
+.home{
+    background-image: url(/hamburger\ \(1\).jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+    padding-top: 10%;
+}
+.home .h1{
+    padding-top: 32%;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: rgb(130, 119, 119);
+}
+
+.three{
+    display: flex;
+    margin-top: 60px;
+}
+.image-left{
+     padding: 50px;
+     margin-left: 3px;
+}
+.text-left{
+    
+}
+.text-right{
+    margin-top: 30px;
+
+   
+}
+.text-right h1{
+    text-align:center ;
+    font-size: 30px;
+    margin-top: 50px;
+    
+
+}
+.text-right h3{
+    text-align: center;
+    margin-top: 9%;
+    letter-spacing: 6px;
+    
+}   
+.text-right p{
+    margin-top: 80px;
+    letter-spacing: 2px;
+    margin-right: 10px;
+    font-size: 23px;
+    
+}
+.text-right h1{
+   
+    letter-spacing: 2px;
+}
+.text-right h2{
+    margin-top:1%;
+    color: rgb(143, 143, 143);
+    font-size: 21px;
+
+}
+
+
+
+.four{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5%;
+    margin-top: 1%;
+}
+.image-right{
+    padding: 90px;
+}
+.four h1{
+    margin-bottom: 20%;
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 5px;
+}
+.four h2{
+    margin-top: 18%;
+    letter-spacing: 2px;
+
+    
+
+}
+.four p{
+    color: rgb(128, 125, 122);
+    margin-top: 3%;
+    font-size: medium;
+}
+.five{
+    padding: 90px;
+    margin-bottom: 50px;
+
+}
+.five h1{
+    font-size: 200%;
+    margin-bottom: 3%;
+    letter-spacing: 5px;
+}
+.five h2{
+    color: rgb(71, 158, 129);
+}
+.five h4{
+    color: rgb(123, 123, 123);
+    padding: 20px;
+}
+.five h5{
+    padding: 20px;
+}
+.button{
+    border: 5px;
+    padding: 10px;
+    margin-top:30px;
+   
+}
+.buttom input{
+    width: 97%;
+    padding: 20px;
+    border-top: none;
+    outline: invert;
+    border-left: none;
+    border-right: none;
+}
+.six{
+text-align: center;
+background-color: rgb(148, 113, 113);
+
+}
+.span{
+  text-decoration: underline;
+}
+.span:hover{
+    color: aquamarine;
+}
+.footer{
+    justify-content: center;
+    text-align: center;
+    background-color: gray;
+    height: 30vh;
+    width: 100%;
+
+}
+
+.buttom-text{
+     text-align: center ;
+     justify-content: center;
+     background-color: rgb(243, 237, 237);
+   width: 100%;
+   height: 100px;
+
+}
+div p{
+    margin-bottom: ;
+   
+}
+
+
+   
+
+
+
+
